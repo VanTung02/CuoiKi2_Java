@@ -1,0 +1,105 @@
+tuan: hello admin
+Server: Message sent to admin: admin
+admin: tuan: hả
+Server: Message sent to user: tuan
+tuan: mày là admin à
+Server: Message sent to admin: admin
+admin: tuan: ừ
+Server: Message sent to user: tuan
+tuan: ừ cái đmm mày
+Server: Message sent to admin: admin
+admin: tuan: kk
+Server: Message sent to user: tuan
+long: tao là long đây
+Server: Message sent to admin: admin
+admin: long: à thế à
+Server: Message sent to user: long
+long: cút
+Server: Message sent to admin: admin
+tuan: uuuuuuuuuuuuuu
+Server: Message sent to admin: admin
+admin: tuan: uuuuu
+Server: Message sent to user: tuan
+admin: long: uuuu
+Server: Message sent to user: long
+tuan: ooo
+Server: Message sent to admin: admin
+admin: tuan: ppp
+Server: Message sent to user: tuan
+long: ooooo
+Server: Message sent to admin: admin
+tuan: tôi là tuấn
+Server: Message sent to admin: admin
+admin: tuan: kkkkk
+Server: Message sent to user: tuan
+tuan: eeeeeeeeeeeeeeee
+Server: Message sent to admin: admin
+tuan: dddddd
+Server: Message sent to admin: admin
+long: long
+Server: Message sent to admin: admin
+admin: long: 55555555555555555
+Server: Message sent to user: long
+tuan: 555555555555555
+Server: Message sent to admin: admin
+tuan: 34343434
+Server: Message sent to admin: admin
+admin: long: r
+Server: Message sent to user: long
+nhanvien1: dđ
+Server: Message sent to admin: admin
+admin: nhanvien1: kkk
+Server: Message sent to user: nhanvien1
+admin: nhanvien1: kkk
+Server: Message sent to user: nhanvien1
+nhanvien1: 4444
+Server: Message sent to admin: admin
+admin: nhanvien1: hhhhh
+Server: Message sent to user: nhanvien1
+nhanvien1: 00000000000000000000000000000000000000000000000000000000
+Server: Message sent to admin: admin
+nhanvien2: nhân viên 2
+Server: Message sent to admin: admin
+nhanvien1: nhân viên 1111
+Server: Message sent to admin: admin
+admin: nhanvien1: f
+Server: Message sent to user: nhanvien1
+nhanvien1: ddddddddddddddddddddddddddddd
+Server: Message sent to admin: admin
+admin: nhanvien2: ccccccc
+Server: Message sent to user: nhanvien2
+nhanvien2: ddd333333333333333333
+Server: Message sent to admin: admin
+nhanvien2: ddd
+Server: Message sent to admin: admin
+nhanvien2: d44444444444444444444444444
+Server: Message sent to admin: admin
+nhanvien1: abc
+Server: Message sent to admin: admin
+nhanvien1: babb
+Server: Message sent to admin: admin
+admin: nhanvien1: adggas
+Server: Message sent to user: nhanvien1
+admin: nhanvien1: nhan 1 ve xem phim 
+Server: Message sent to user: nhanvien1
+nhanvien1: nhan ve xem phim 1
+nhanvien1: Aạchanc
+Server: Message sent to admin: admin
+nhanvien1: admin
+Server: Message sent to admin: admin
+nhanvien1: nhan vien 1
+Server: Message sent to admin: admin
+admin: nhanvien1: abc
+Server: Message sent to user: nhanvien1
+nhanvien1: nhanvien2
+Server: Message sent to admin: admin
+nhanvien1: da dat ve thanh cong 1
+Server: Message sent to admin: admin
+nhanvien2: chao amin
+Server: Message sent to admin: admin
+admin: nhanvien1: ban da dat ve thanh cong
+Server: Message sent to user: nhanvien1
+nhanvien1: dat ve thanh cong
+nhanvien1: dat ve xem phim thanh cong
+nhanvien1: dat ve abc
+Server: Message sent to admin: admin
